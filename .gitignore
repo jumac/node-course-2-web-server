@@ -1,0 +1,4 @@
+node_modules/
+readme.md
+package-lock.json
+server.log
