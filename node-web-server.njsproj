@@ -32,6 +32,7 @@
     <Compile Include="server.js">
       <SubType>Code</SubType>
     </Compile>
+    <Content Include=".gitignore" />
     <Content Include="package.json" />
     <Content Include="public\help.html">
       <SubType>Code</SubType>
@@ -43,6 +44,7 @@
     <Content Include="views\home.hbs">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="views\maintenance.hbs" />
     <Content Include="views\partials\footer.hbs" />
     <Content Include="views\partials\header.hbs" />
   </ItemGroup>
