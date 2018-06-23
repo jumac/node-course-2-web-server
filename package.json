@@ -2,7 +2,7 @@
   "name": "web-server",
   "version": "0.0.0",
   "description": "node-web-server",
-  "main": "app.js",
+  "main": "server.js",
   "author": "jumac",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1", 
